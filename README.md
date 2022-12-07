@@ -7,4 +7,6 @@ Just Doing some simple job for boss
 
 # Duplicate Barcode
   Find the items with same Barcode
-  
+
+# Davely's
+  Seperate the weight from the product name.
