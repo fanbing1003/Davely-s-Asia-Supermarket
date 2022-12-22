@@ -3,7 +3,5 @@
   The aim of the project is to make it easier for others colleague when they dealing with delivery and check out
 
 # Duplicate Barcode
-  Find the items with same Barcode
+  Find the items with same Barcode. Compare with the salse history, Deprecate teh items that are not on the record.
 
-# Davely's
-  Seperate the weight from the product name.
